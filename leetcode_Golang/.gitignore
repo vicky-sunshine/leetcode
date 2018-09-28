@@ -1,0 +1,8 @@
+# macos
+.DS_Store
+
+# go
+/pkg
+/bin
+/src/github.com
+/src/golang.org
